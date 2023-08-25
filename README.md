@@ -1,6 +1,8 @@
 # Maze-Walker
 
-Solo grade 11 final project.
+A 2D dungeon crawler game I submitted for my grade 11 computer science culminating project.
+
+The game was made with pygame, which helped render graphics with Python. 
 
 ## Screenshots
 
